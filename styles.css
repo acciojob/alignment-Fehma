@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
 table{
-	 border-color: solid black;
+	border-width:1px;
+	border-style:solid;
+	 border-color:solid black;
 	spacing:1px;
 	cell padding:1px;
 	width:700px;
