@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 table {
-    border: 1px solid black;
-    padding: 1px;
+    
     width: 700px;
     height: 200px;
 }
 
 td {
+	border: 1px solid black;
     padding: 1px;
 }
 
